@@ -12,3 +12,7 @@ Visual Studio Code.
 Confira tudo o que temos no
 nosso YouTube. E gratis!
 
+------
+Pessoas participantes:
+
+- Agatha Luiza
